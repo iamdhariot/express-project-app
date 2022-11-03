@@ -16,6 +16,8 @@
     "express": "^4.18.2",
     "express-ip": "^1.0.4",
     "express-jwt": "^7.7.7",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
     "joi": "^17.6.4",
     "mysql2": "^2.3.3",
     "rootpath": "^0.1.2",
